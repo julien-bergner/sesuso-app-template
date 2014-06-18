@@ -1,0 +1,2 @@
+secret_key_base: "abc"
+devise_secret_key: "abc"
